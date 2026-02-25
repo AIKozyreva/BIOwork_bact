@@ -1,0 +1,24 @@
+{
+  "version": "1.2",
+  "dbname": "VF_core_prot",
+  "dbtype": "Protein",
+  "db-version": 5,
+  "description": "VF_core_prot",
+  "number-of-letters": 1777702,
+  "number-of-sequences": 4261,
+  "last-updated": "2024-12-06T10:54:00",
+  "number-of-volumes": 1,
+  "bytes-total": 3321602,
+  "bytes-to-cache": 1816156,
+  "files": [
+    "VF_core_prot.pdb",
+    "VF_core_prot.phr",
+    "VF_core_prot.pin",
+    "VF_core_prot.pog",
+    "VF_core_prot.pos",
+    "VF_core_prot.pot",
+    "VF_core_prot.psq",
+    "VF_core_prot.ptf",
+    "VF_core_prot.pto"
+  ]
+}
