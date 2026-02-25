@@ -1,0 +1,1 @@
+This repo's author has never prtend to authorship of any of the listed tools or databases. Some scripts was made by me, others has carefully gathered in the web during years of studying and working.
